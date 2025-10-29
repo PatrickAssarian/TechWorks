@@ -1,4 +1,4 @@
-# 🧠 UFPEL TechWorks (alteração para teste)
+# 🧠 UFPEL TechWorks
 
 > **Grupo de Pesquisa e Desenvolvimento em Tecnologia Aplicada da Universidade Federal de Pelotas (UFPEL)**  
 > Aprendizado prático em desenvolvimento, automação e engenharia de software moderna — voltado à preparação para o mercado.
